@@ -58,13 +58,13 @@ address:
 credits: 'CPE243 di ko alam course code hehehe'
 
 # Build settings
-#markdown: kramdown
-#permalink: pretty
+markdown: kramdown
+permalink: pretty
 
 #for posts
-#defaults:
-  #- scope:
-   #   path: ""
-   #   type: "posts"
-   # values:
-   #   permalink: ""
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
