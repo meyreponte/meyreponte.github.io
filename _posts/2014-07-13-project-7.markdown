@@ -4,5 +4,5 @@ modal-id: 7
 date: 2014-07-18
 img: 1.png
 alt: image-alt
-description: https://github.com/meyreponte/HOA1.git
+description: hindi clickable link nakakainis nakakadilim ng paningin HDL prof hayop
 ---
