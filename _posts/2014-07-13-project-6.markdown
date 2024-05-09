@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: 7.png
 alt: image-alt
 description: https://github.com/meyreponte/Reponte_PrelimExam.git
 ---
