@@ -35,7 +35,7 @@ footer:
   # copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
-  course: Course
+  credits: Course
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -55,7 +55,7 @@ address:
   - line: Rodriguez, Rizal
 
 # Credits content
-course: 'CPE243 di ko alam course code hehehe'
+credits: 'CPE243 di ko alam course code hehehe'
 
 # Build settings
 markdown: kramdown
