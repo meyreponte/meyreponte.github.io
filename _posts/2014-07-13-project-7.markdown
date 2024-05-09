@@ -2,7 +2,7 @@
 layout: default
 modal-id: 7
 date: 2014-07-18
-img: 1.png
+img: 8.png
 alt: image-alt
 description: hindi clickable link nakakainis nakakadilim ng paningin HDL prof hayop
 ---
