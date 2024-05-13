@@ -2,7 +2,7 @@
 layout: default
 modal-id: 12
 date: 2014-07-18
-img: 8.png
+img: 12.png
 alt: image-alt
 description: https://github.com/meyreponte/CPE_MIDEXAM_REPONTE.git
 ---
