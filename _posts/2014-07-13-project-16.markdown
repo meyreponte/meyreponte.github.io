@@ -2,7 +2,7 @@
 layout: default
 modal-id: 16
 date: 2014-07-18
-img: 1.png
+img: 16.png
 alt: image-alt
 description: https://github.com/meyreponte/HOA14.git
 ---
